@@ -1,3 +1,8 @@
+// Creator: John Coleman
+// Date: 05/03/2020
+// Title: Password Generator using /dev/urandom
+// Comment: 
+
 #include <stdio.h>
 #include <stdlib.h>
 
